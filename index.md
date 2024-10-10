@@ -23,7 +23,7 @@ Olen tällä hetkellä opiskelija ja opiskelen ohjelmointia. Tässä on muutama 
 - **JavaScript**: Dynaamisten verkkosivujen luominen. ⚙️
 - **Java**: Olio-ohjelmoinnin perusteet ja sovellusten kehittäminen. Olen oppinut käyttämään Javaa muun muassa pienissä projekteissa ja harjoituksissa. ☕
 
-![Kuvateksti](https://raw.githubusercontent.com/Samulimv/repository/main/coffee-8595772_1280.jpg)
+(https://raw.githubusercontent.com/Samulimv/repository/main/laptop-2620118_640.jpg)
  <!-- Muista vaihtaa tämä oikeaan kuva-URL:iin -->
 
 ### Huomioita ja hälytyksiä ⚠️🚨
