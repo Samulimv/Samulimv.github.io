@@ -1,12 +1,12 @@
-# Free choice extra assignment bundle E 🌟
+# Free choice extra assignment bundle E (Tehtävän ohjeet suomeksi)
 
 Käytä GitHub Pagesia ja Markdown-kieltä (ei HTML) luodaksesi perustason staattisen verkkosivuston:
 
-- Verkkosivuston on oltava julkinen. 🌍
-- Käytä vähintään muutamia GitHub Flavored Markdown -ominaisuuksia verkkosivun muotoilussa. ✏️
-- Dokumentoi työsuorituksesi muutamalla kuvakaappauksella oppimispäiväkirjaan. 📸
-- Kirjoita GitHub-sivun osoite oppimispäiväkirjaan, jotta vertaisarvioijasi voivat vahvistaa sen helposti. ✅
-- Pidä sivut saatavilla, kunnes olet saanut kurssiarvosanan. 🎓
+- Verkkosivuston on oltava julkinen. 
+- Käytä vähintään muutamia GitHub Flavored Markdown -ominaisuuksia verkkosivun muotoilussa. 
+- Dokumentoi työsuorituksesi muutamalla kuvakaappauksella oppimispäiväkirjaan. 
+- Kirjoita GitHub-sivun osoite oppimispäiväkirjaan, jotta vertaisarvioijasi voivat vahvistaa sen helposti. 
+- Pidä sivut saatavilla, kunnes olet saanut kurssiarvosanan.
 
 ---
 
@@ -23,7 +23,7 @@ Olen tällä hetkellä opiskelija ja opiskelen ohjelmointia. Tässä on muutama 
 - **JavaScript**: Dynaamisten verkkosivujen luominen. ⚙️
 - **Java**: Olio-ohjelmoinnin perusteet ja sovellusten kehittäminen. Olen oppinut käyttämään Javaa muun muassa pienissä projekteissa ja harjoituksissa. ☕
 
-(https://raw.githubusercontent.com/Samulimv/repository/main/laptop-2620118_640.jpg)
+![](https://github.com/Samulimv/Samulimv.github.io/blob/main/laptop-2620118_640.jpg)
  <!-- Muista vaihtaa tämä oikeaan kuva-URL:iin -->
 
 ### Huomioita ja hälytyksiä ⚠️🚨
