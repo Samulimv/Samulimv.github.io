@@ -23,8 +23,6 @@ Olen tällä hetkellä opiskelija ja opiskelen ohjelmointia. Tässä on muutama 
 - **JavaScript**: Dynaamisten verkkosivujen luominen. ⚙️
 - **Java**: Olio-ohjelmoinnin perusteet ja sovellusten kehittäminen. Olen oppinut käyttämään Javaa muun muassa pienissä projekteissa ja harjoituksissa. ☕
 
-![](https://github.com/Samulimv/Samulimv.github.io/blob/main/laptop-2620118_640.jpg)
- <!-- Muista vaihtaa tämä oikeaan kuva-URL:iin -->
 
 ### Huomioita ja hälytyksiä ⚠️🚨
 
@@ -38,6 +36,9 @@ Voit ottaa yhteyttä minuun [sähköpostitse](mailto:t3vasa03@students.oamk.fi) 
 
 - [GitHub](https://github.com/Samulimv) 🐱
 - [Steam](https://steamcommunity.com/profiles/76561198210148219/) 🎮
+
+
+![Tsemppiä opintoihin!!!](https://raw.githubusercontent.com/Samulimv/Samulimv.github.io/main/laptop-2620118_640.jpg)
 
 
 ## Kiitos, että vierailit sivullani! 😊🌟
