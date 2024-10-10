@@ -1,3 +1,15 @@
+# Free choice extra assignment bundle E
+
+Käytä GitHub Pagesia ja Markdown-kieltä (ei HTML) luodaksesi perustason staattisen verkkosivuston:
+
+- Verkkosivuston on oltava julkinen.
+- Käytä vähintään muutamia GitHub Flavored Markdown -ominaisuuksia verkkosivun muotoilussa.
+- Dokumentoi työsuorituksesi muutamalla kuvakaappauksella oppimispäiväkirjaan.
+- Kirjoita GitHub-sivun osoite oppimispäiväkirjaan, jotta vertaisarvioijasi voivat vahvistaa sen helposti.
+- Pidä sivut saatavilla, kunnes olet saanut kurssiarvosanan.
+
+---
+
 # Tervetuloa minun verkkosivulleni! 🎉
 
 Tämä sivu on luotu käyttämällä GitHub Pagesia ja Markdownia. Olen innoissani, että voin jakaa opintojani ja projektejani kanssasi!
@@ -9,8 +21,10 @@ Olen tällä hetkellä opiskelija ja opiskelen ohjelmointia. Tässä on muutama 
 - **HTML**: Perusteet verkkosivujen rakentamisesta.
 - **CSS**: Tyylit ja ulkoasu.
 - **JavaScript**: Dynaamisten verkkosivujen luominen.
+- **Java**: Olio-ohjelmoinnin perusteet ja sovellusten kehittäminen. Olen oppinut käyttämään Javaa muun muassa pienissä projekteissa ja harjoituksissa.
 
-![Opiskelija työskentelee tietokoneella](https://example.com/opiskelija.jpg) <!-- Muista vaihtaa tämä oikeaan kuva-URL:iin -->
+
+![Opiskelija työskentelee tietokoneella]("coffee-8595772_1280.jpg") <!-- Muista vaihtaa tämä oikeaan kuva-URL:iin -->
 
 ### Huomioita ja hälytyksiä ⚠️
 
@@ -18,19 +32,13 @@ Olen tällä hetkellä opiskelija ja opiskelen ohjelmointia. Tässä on muutama 
 
 - 💡 **Vinkki**: Käytä aikaa harjoitteluun ja projektien tekemiseen, se auttaa sinua oppimaan nopeammin!
 
-## Projektit 🔧
-
-Tässä on muutama projekti, joita olen työskennellyt:
-
-1. **Portfolio-sivusto**: Verkkosivustoni, joka esittelee työtäni.
-2. **Sovellus**: Työskentelen tällä hetkellä sovelluksen parissa, joka auttaa opiskelijoita järjestämään aikataulujaan.
 
 ### Liity mukaan!
 
 Voit ottaa yhteyttä minuun [sähköpostitse](mailto:myemail@example.com) tai seurata minua sosiaalisessa mediassa:
 
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [GitHub](https://github.com/Samulimv)
+- [Steam] 
 
 ### Emoji-haaste! 🎯
 
