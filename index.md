@@ -38,7 +38,9 @@ Voit ottaa yhteyttä minuun [sähköpostitse](mailto:t3vasa03@students.oamk.fi) 
 - [Steam](https://steamcommunity.com/profiles/76561198210148219/) 🎮
 
 
-![Tsemppiä opintoihin!!!](https://raw.githubusercontent.com/Samulimv/Samulimv.github.io/main/laptop-2620118_640.jpg)
+### Tsemppiä opintoihin!!!
+
+![](https://raw.githubusercontent.com/Samulimv/Samulimv.github.io/main/laptop-2620118_640.jpg)
 
 
 ## Kiitos, että vierailit sivullani! 😊🌟
