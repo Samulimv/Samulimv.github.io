@@ -1,17 +1,40 @@
-# My Static Website
+# Tervetuloa minun verkkosivulleni! 🎉
 
-Welcome to my static website created using GitHub Pages and Markdown!
+Tämä sivu on luotu käyttämällä GitHub Pagesia ja Markdownia. Olen innoissani, että voin jakaa opintojani ja projektejani kanssasi!
 
-## About Me
-- I am a student learning web development.
-- I enjoy coding and creating new projects.
+## Opiskeluni 📚
 
-## Projects
-1. Project One: [GitHub Repository](https://github.com/)
-2. Project Two: [GitHub Repository](https://github.com/)
+Olen tällä hetkellä opiskelija ja opiskelen ohjelmointia. Tässä on muutama asia, joita olen oppinut viime aikoina:
 
-## Contact
-You can reach me at [myemail@example.com](mailto:myemail@example.com).
+- **HTML**: Perusteet verkkosivujen rakentamisesta.
+- **CSS**: Tyylit ja ulkoasu.
+- **JavaScript**: Dynaamisten verkkosivujen luominen.
 
-> "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+![Opiskelija työskentelee tietokoneella](https://example.com/opiskelija.jpg) <!-- Muista vaihtaa tämä oikeaan kuva-URL:iin -->
+
+### Huomioita ja hälytyksiä ⚠️
+
+> **Tärkeä huomautus:** Muista, että oppiminen vaatii aikaa ja kärsivällisyyttä. Älä pelkää kysyä apua, kun tarvitset sitä!
+
+- 💡 **Vinkki**: Käytä aikaa harjoitteluun ja projektien tekemiseen, se auttaa sinua oppimaan nopeammin!
+
+## Projektit 🔧
+
+Tässä on muutama projekti, joita olen työskennellyt:
+
+1. **Portfolio-sivusto**: Verkkosivustoni, joka esittelee työtäni.
+2. **Sovellus**: Työskentelen tällä hetkellä sovelluksen parissa, joka auttaa opiskelijoita järjestämään aikataulujaan.
+
+### Liity mukaan!
+
+Voit ottaa yhteyttä minuun [sähköpostitse](mailto:myemail@example.com) tai seurata minua sosiaalisessa mediassa:
+
+- [GitHub](https://github.com/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+
+### Emoji-haaste! 🎯
+
+Kokeile lisätä omia emojeitasi ja katso, mitä voit tehdä!
+
+#### Kiitos, että vierailit sivullani! 😊
 
